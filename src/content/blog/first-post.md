@@ -2,7 +2,7 @@
 title: "1 - Tekst 150 czasowników"
 description: "Tekst zawierający 150 najczęściej używanych czasowników"
 pubDate: "Marzec 01 2025"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "/Language Text 1.webp"
 ---
 
 W tym tekście zawarte jest 150 z najpopularniejszych czasowników niemieckich.
