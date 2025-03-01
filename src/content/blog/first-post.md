@@ -1,16 +1,50 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+title: "1 - Tekst 150 czasowników"
+description: "Tekst zawierający 150 najczęściej używanych czasowników"
+pubDate: "Marzec 01 2022"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+W tym tekście zawarte jest 150 z najpopularniejszych czasowników niemieckich.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+System kolorów dla czasowników
+✅ Czasowniki w czasie teraźniejszym → 🟦 NIEBIESKI
+✅ Czasowniki w czasie przeszłym → 🔴 CZERWONY
+✅ Czasowniki w czasie przyszłym → 🟢 ZIELONY
+✅ Czasowniki modalne (np. können, müssen, wollen) → 🟣 FIOLETOWY
+✅ Czasowniki rozdzielnie złożone → 🟠 POMARAŃCZOWY
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Tekst 1
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Mój dzień beginnt 🟦 früh. Ich wache 🟦 um sechs Uhr auf 🟠 und stehe 🟦 langsam auf 🟠. Dann gehe 🟦 ins Badezimmer, wo ich mein Gesicht wasche 🟦 und meine Zähne putze 🟦.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Nach dem Frühstück verlasse 🟦 das Haus und fahre 🟦 mit dem Fahrrad zur Arbeit. Unterwegs sehe 🟦 viele Menschen, die zur Schule oder ins Büro gehen 🟦. An einer Ampel treffe 🟦 ich zufällig einen alten Freund. Wir sprechen 🟦 kurz über die alten Zeiten und lachen 🟦 viel.
+
+Im Büro setze 🟦 ich mich an meinen Schreibtisch und beginne 🟦 mit meiner Arbeit. Ich öffne 🟦 meinen Laptop und schreibe 🟦 einige E-Mails. Mein Kollege fragt 🟦, ob ich ihm bei einem Problem helfen 🟦 kann 🟣, und ich sage 🟦 natürlich ja.
+
+Nach ein paar Stunden fühle 🟦 ich mich müde, also mache 🟦 eine Pause. Ich stehe 🟦 auf 🟠, gehe 🟦 zur Kaffeemaschine und nehme 🟦 mir einen frischen Kaffee. Während ich warte, höre 🟦 ich, wie meine Kollegen über das Wochenende erzählen 🟦.
+
+Plötzlich kam 🔴 mein Chef und bat 🔴 mich, eine Präsentation für das nächste Meeting vorzubereiten 🟦. Ich antwortete 🔴, dass ich es sofort mache 🟦. Ich plante 🔴 die Struktur, suchte 🔴 relevante Informationen und erstellte 🔴 einige Folien.
+
+Nach einer Weile überlege 🟦 ich, wie ich die Präsentation interessanter machen 🟦 kann 🟣. Ich probiere 🟦 verschiedene Designs aus 🟠 und entscheide 🟦 mich schließlich für eine schlichte, aber elegante Variante. Währenddessen ruft 🟦 mich mein Kollege an 🟠 und fragt 🟦, ob ich ihm helfen kann 🟣. Ich höre 🟦 ihm zu und versuche 🟦, eine Lösung zu finden 🟦. Schließlich finde 🟦 ich eine gute Idee und erkläre 🟦 sie ihm. Er dankt 🟦 mir und verspricht 🟦, mir später einen Kaffee zu bringen 🟦.
+
+Als die Mittagspause kommt 🟦, gehe 🟦 ich mit meinen Kollegen in ein Restaurant. Ich bestelle 🟦 eine Suppe und einen Salat, während die anderen Pizza essen 🟦. Wir reden 🟦 über unsere Urlaubspläne und lachen 🟦 viel. Nach dem Essen bezahle 🟦 ich meine Rechnung und verabschiede 🟦 mich von meinen Kollegen.
+
+Zurück im Büro fahre 🟦 ich mit meiner Arbeit fort 🟠. Ich kontrolliere 🟦 meine E-Mails und sehe, dass mein Chef eine zusätzliche Aufgabe gegeben 🔴 hat. Ich nehme 🟦 die Herausforderung an 🟠 und beginne, daran zu arbeiten 🟦. Während ich mich konzentriere 🟦, klopft 🟦 jemand an meine Tür. Es ist mein Kollege, der mir einen Kaffee bringt 🟦, wie er es versprochen 🔴 hat. Ich nehme 🟦 ihn dankbar an 🟠 und trinke 🟦 einen Schluck.
+
+Am Nachmittag fühle 🟦 ich mich ein wenig gestresst, also mache 🟦 eine kurze Pause. Ich stehe 🟦 auf 🟠, gehe 🟦 ans Fenster und schaue 🟦 hinaus. Das Wetter scheint 🟦 schön zu sein, also überlege 🟦 ich, nach der Arbeit einen Spaziergang zu machen 🟦.
+
+Als die Arbeitszeit vorbei ist, packe 🟦 ich meine Sachen zusammen 🟠, verlasse 🟦 das Büro und fahre 🟦 nach Hause. Unterwegs halte 🟦 ich an einem Supermarkt an 🟠 und kaufe 🟦 einige Lebensmittel. Ich wähle 🟦 frisches Gemüse, Brot und Käse aus 🟠 und gehe 🟦 dann zur Kasse. Die Kassiererin fragt 🟦, ob ich bar oder mit Karte bezahlen 🟦 möchte, und ich entscheide 🟦 mich für die Karte.
+
+Zuhause angekommen, lege 🟦 ich die Einkäufe in den Kühlschrank und überlege, was ich zum Abendessen kochen 🟦 könnte. Ich entscheide 🟦 mich für eine einfache Pasta mit Gemüse. Ich schneide 🟦 Paprika, Tomaten und Zwiebeln, erhitze 🟦 etwas Öl in der Pfanne und brate 🟦 das Gemüse kurz an 🟠. Dann koche 🟦 ich die Nudeln, mische 🟦 alles zusammen 🟠 und würze 🟦 es mit Salz und Pfeffer.
+
+Während das Essen abkühlt, setze 🟦 ich mich aufs Sofa und schalte 🟦 den Fernseher ein 🟠. Ich finde 🟦 eine interessante Dokumentation und schaue 🟦 sie mir an. Nebenbei esse 🟦 ich mein Abendessen und genieße 🟦 den ruhigen Moment.
+
+Nach dem Essen räume 🟦 ich den Tisch auf 🟠 und spüle 🟦 das Geschirr. Dann nehme 🟦 ich mein Handy und überprüfe, ob ich neue Nachrichten erhalten 🔴 habe. Ein Freund schreibt 🟦 mir und fragt, ob ich Lust habe, am Wochenende ins Kino zu gehen 🟦. Ich antworte, dass es eine gute Idee ist 🟦 und wir die Details später klären 🟦 können 🟣.
+
+Da ich mich etwas müde fühle 🟦, entscheide 🟦 ich mich, noch eine Runde draußen zu laufen 🟦. Ich ziehe 🟦 meine Schuhe an 🟠 und verlasse 🟦 die Wohnung. Die frische Luft tut 🟦 mir gut, und ich spüre 🟦, wie mein Kopf wieder frei wird 🟦. Während ich durch den Park gehe 🟦, sehe 🟦 ich einige Leute, die auf einer Bank sitzen 🟦 und sich unterhalten 🟦.
+
+Nach einer halben Stunde komme 🟦 ich wieder nach Hause. Ich ziehe 🟦 meine Schuhe aus 🟠, gehe 🟦 ins Badezimmer und dusche 🟦 mich. Dann ziehe 🟦 ich meinen Schlafanzug an 🟠 und mache 🟦 es mir im Bett gemütlich.
+
+Bevor ich einschlafe, nehme 🟦 ich noch ein Buch und lese 🟦 ein paar Seiten. Ich überlege, was ich am nächsten Tag machen 🟦 werde 🟢, und denke 🟦 an all die Dinge, die heute passiert sind 🔴. Schließlich lege 🟦 ich das Buch zur Seite, schalte 🟦 das Licht aus 🟠 und schlafe 🟦 langsam ein 🟠.
+
