@@ -1,7 +1,7 @@
 ---
 title: "1 - Tekst 150 czasowników"
 description: "Tekst zawierający 150 najczęściej używanych czasowników"
-pubDate: "Marzec 01 2022"
+pubDate: "Marzec 01 2025"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
