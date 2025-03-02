@@ -5,7 +5,7 @@ pubDate: "Marzec 01 2025"
 heroImage: "/Language Text 1.webp"
 ---
 
-W tym tekście zawarte jest 150 z najpopularniejszych czasowników niemieckich.
+W tym tekście zawarte jest 150 z najpopularniejszych czasowników niemieckich. (1 - 150)
 
 System kolorów dla czasowników
 <br>✅ Czasowniki w czasie teraźniejszym → 🟦 NIEBIESKI
