@@ -8,11 +8,11 @@ heroImage: "/Language Text 1.webp"
 W tym tekście zawarte jest 150 z najpopularniejszych czasowników niemieckich. (1 - 150)
 
 System kolorów dla czasowników
-<br>✅ Czasowniki w czasie teraźniejszym → 🟦 NIEBIESKI
-<br>✅ Czasowniki w czasie przeszłym → 🔴 CZERWONY
-<br>✅ Czasowniki w czasie przyszłym → 🟢 ZIELONY
-<br>✅ Czasowniki modalne (np. können, müssen, wollen) → 🟣 FIOLETOWY
-<br>✅ Czasowniki rozdzielnie złożone → 🟠 POMARAŃCZOWY
+<br>Czasowniki w czasie teraźniejszym → 🟦 NIEBIESKI
+<br>Czasowniki w czasie przeszłym → 🔴 CZERWONY
+<br>Czasowniki w czasie przyszłym → 🟢 ZIELONY
+<br>Czasowniki modalne (np. können, müssen, wollen) → 🟣 FIOLETOWY
+<br>Czasowniki rozdzielnie złożone → 🟠 POMARAŃCZOWY
 
 Tekst 1
 
