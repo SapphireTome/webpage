@@ -8,11 +8,11 @@ heroImage: "/Language Text 2.webp"
 Druga historia z kolejnymi 150cioma czasownikami.
 
 Jak poprzednio, czasowniki oznaczone kolorami:
-✅ 🟦 Teraźniejsze (ich mache, ich gehe)
-✅ 🔴 Przeszłe (ich habe gemacht, ich war)
-✅ 🟢 Przyszłe (ich werde machen)
-✅ 🟣 Modalne (ich kann, ich muss)
-✅ 🟠 Rozdzielnie złożone (ich stehe auf, ich mache zu)
+<br>🟦 Teraźniejsze (ich mache, ich gehe)
+<br>🔴 Przeszłe (ich habe gemacht, ich war)
+<br>🟢 Przyszłe (ich werde machen)
+<br>🟣 Modalne (ich kann, ich muss)
+<br>🟠 Rozdzielnie złożone (ich stehe auf, ich mache zu)
 
 Freitagabend beginnt 🟦 ruhig. Ich sitze 🟦 auf dem Sofa und überlege, was ich am Wochenende machen 🟦 könnte. Ein Freund ruft 🟦 mich plötzlich an 🟠 und schlägt 🟦 vor, gemeinsam einen spontanen Ausflug zu planen 🟦. Ich zögere 🟦 kurz, aber dann sage 🟦 ich begeistert zu 🟠.
 
